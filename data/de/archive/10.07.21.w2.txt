@@ -1,0 +1,531 @@
+lukrativ ;  ; прибутковий
+der Stoff ;  ; тканина, substance, material
+verboten ;  ; запрещено
+die Betäubung ;  ; stunning, anethesia
+der Nachteil ;  ; недолік
+schätzungsweise ;  ; estimated, approximately
+der Umsatz ;  ; revenue
+ungesund ;  ; нездоровий
+die Beimischung ;  ; домішка, примесь
+verunreinigen ;  ; contaminate, pollute
+der Ausweis ;  ; посвідчення особи
+die Ansicht ;  ; view, opinion, belief
+der Verband ;  ; організація, асоціація
+keinerlei ;  ; nothing, whatsoever, zero
+insofern ;  ; до такої міри, therefore
+erwischen ;  ; catch
+die Verfolgung ;  ; persecution, pursuit
+verstoßen ;  ; violate, breach
+die Abstimmung ;  ; голосування
+die Branche ;  ; industry, sector
+die Behörde ;  ; authority
+das Verhältnis ;  ; relationship, ratio
+der Einzelhandel ;  ; retail
+die Aussicht ;  ; view, prospect
+erschließen ;  ; open up, develop
+der Zweig ;  ; twig, branch
+der Zweck ;  ; point, use, purpose
+auswählen ;  ; select, choose, pick
+erhältlich ;  ; available, obtainable
+verzeichnen ;  ; record, register
+der Antrag ;  ; request, proposal, application
+der Bedarf ;  ; need, demand
+behaupten ;  ; утверждать, заявлять
+der Vorsatz ;  ; intent, purpose
+vorhanden ;  ; present, exist, существует, имееться
+ungenutzt ;  ; unused, не використаний
+der Vordergrund ;  ; focus, spotlight, foreground
+sicherstellen ;  ; ensure, make sure, guarantee
+die Verbesserung ;  ; improvement
+der Zugang ;  ; access, approach, entrance
+der Anleger ;  ; інвестор
+ausbauen ;  ; expand, remove, develop, extend
+die Vorlage ;  ; template, model, sumbission
+besprechen ;  ; besprechen
+der Blickwinkel ;  ; point of view
+die Unstimmigkeit ;  ; disagreement
+der Wettbewerb ;  ; competition
+die Begabung ;  ; talent
+die Verlegenheit ;  ; збентеження, смущение, embarrassment
+die Jagd ;  ; полювання, охота, hunt
+die Zuneigung ;  ; прихильність, привязанность, affection, fondness
+die Ankunft ;  ; прибуття, arrival
+das Opfer ;  ; потерпілий, жертва, sacrifice
+der Fluch ;  ; прокляття, curse
+der Schutz ;  ; захист
+der Gegner ;  ; суперник, противник, opponent, enemy, rival
+trocknen ;  ; dry
+vorhin ;  ; раніше, a little while ago, just now
+drin ;  ; in there, in it
+der Befürworter ;  ; advocate,  proponent,  supporter
+die Aufmerksamkeit ;  ; увага, attention
+das Gedächtnis ;  ; память, memory
+nachweisbar ;  ; поддающийся проверке, detectable
+berauschen ;  ; intoxicate
+die Droge ;  ; drug
+die Einstellung ;  ; attitude, adjustment, настрой(ка)
+die Zustimmung ;  ; approval, consent, agreement
+befürworten ;  ; advocate, endorse
+vorhaben ;  ; to have in mind, intend
+scheitern ;  ; fail
+ablehnen ;  ; reject, refuse, deny
+unbestritten ;  ; безперечний, бесспорный, undeniable
+der Sumpf ;  ; swamp
+verteufeln ;  ; demonize
+das Umfeld ;  ; environment, surrounding
+der Entwurf ;  ; draft, design, proposal
+verfassen ;  ; write, compose, draw up
+der Kern ;  ; core
+zugunsten ;  ; in favor of
+die Überführung ;  ; transfer, conversion
+die Beratung ;  ; advice
+beträchtlich ;  ; considerable, significant
+mangeln ;  ; be lacking in
+erheben ;  ; collect, charge, rise
+bewirken ;  ; cause, bring about
+belasten ;  ; burden with
+bedenken ;  ; consider, keep in mind
+ob's ;  ; whether it's
+schädigen ;  ; cause harm, injure
+voraussichtlich ;  ; estimated, probably
+gewährleisten ;  ; ensure, guarantee, provide
+der Genuss ;  ; pleasure, enjoyment
+erzielen ;  ; achieve, obtain, reach
+gucken ;  ; look, watch, see
+die Bosheit ;  ; evil, malice
+die Einzelheit ;  ; detail
+der Angriff ;  ; attack
+der Hügel ;  ; hill
+die Eifersucht ;  ; jealousy
+die Bemühung ;  ; effort
+die Vermutung ;  ; guess
+die Schlacht ;  ; battle
+die Jahreszeit ;  ; season
+der Erfinder ;  ; invetor, creator
+die Bereitschaft ;  ; willingness, readiness
+der Umfang ;  ; level, scope, extent
+die Wiederherstellung ;  ; recovery
+die Vernichtung ;  ; extermination,  destruction,  annihilation,  obliteration,  demolition,  elimination,  evisceration
+auseinander ;  ; apart
+der Heimatort ;  ; hometown
+die Fortsetzung ;  ; продовження, sequel
+die Erzählung ;  ; tale, story, narration
+endgültig ;  ; final, definitive, permanent
+die Anwesenheit ;  ; присутність, presence
+die Mahlzeit ;  ; їжа, meal
+das Geschlecht ;  ; стать, gender, sex
+die Herkunft ;  ; походження, origin
+die Einrichtung ;  ; device, institution
+die Gewohnheit ;  ; habit, practice
+der Verkehr ;  ; traffic
+das Gepäck ;  ; багаж
+die Unterkunft ;  ; розміщення, accomodation, property
+die Nahrung ;  ; їжа, еда, food
+die Dienstleistung ;  ; service
+die Betreuung ;  ; care, support
+die Währung ;  ; currency
+das Gewicht ;  ; weight
+abfahren ;  ; start
+die Abfahrt ;  ; start
+abgeben ;  ; give, deliver, submit
+abholen ;  ; pick up, collect
+der Absender ;  ; sender
+anbieten ;  ; offer, provide
+ankreuzen ;  ; tick, check, mark
+anmachen ;  ; turn on
+die Anrede ;  ; address, salutation, title
+anmelden ;  ; enroll, register
+anrufen ;  ; call
+die Ansage ;  ; announcement, оголошення
+die Anzeige ;  ; ad, notification, display
+aufhören ;  ; stop, cease
+aufstehen ;  ; get up, rise
+der Aufzug ;  ; elevator, lift
+der Ausflug ;  ; trip
+der Ausgang ;  ; output, exit, way out
+ausfüllen ;  ; fill out, complete
+das Ausland ;  ; abroad
+ausmachen ;  ; turn off, make up
+aussteigen ;  ; get out, get off, выйти, сойти
+der Bahnsteig ;  ; platform, track
+der Bauch ;  ; belly, stomach
+der Beruf ;  ; occupation
+besichtigen ;  ; visit, see, explore
+der Durchschnitt ;  ; average, mean
+der Unfall ;  ; accident
+vollkommen ;  ; completely
+die Geschwindigkeit ;  ; pace, velocity
+das Liebespaar ;  ; couple
+der Leiter ;  ; голова, ladder
+die Kehle ;  ; горло
+begraben ;  ; поховати, bury
+letzendlich ;  ; ultimately, eventually, зрештою
+die Mehrheit ;  ; більшість
+selbstverständlich ;  ; очевидно, безумовно
+verlaufen ;  ; протекать, заблудитись
+ausgerechnet ;  ; ironically, of all people
+erfunden ;  ; invented
+vorsichtig ;  ; carefully, careful
+durchgesetzt ;  ; enforced, prevailed, implemented, примусовий
+das Königreich ;  ; королівство
+das Ereignis ;  ; подія, событие, event
+beliebt ;  ; popular
+zur Auswahl stehen ;  ; choose from, are available for selection
+einflussreich ;  ; influential, впливовий
+der Auswanderer ;  ; emigrant
+vorherrschend ;  ; predominant, prevalent
+der Großteil ;  ; majority
+erholt ;  ; recover, relax, rest
+bestehen bleiben ;  ; remain
+herausfinden ;  ; find out
+aufbaut ;  ; based
+schauen wir uns mal ;  ; let's take a look
+einführen ;  ; introduce
+der Betrag ;  ; сума, amount
+das Gehirn ;  ; мозок, brain
+die Sucht ;  ; залежність, addiction
+die Reinheit ;  ; чистота, purity
+der Angstzustand ;  ; anxiety
+der Bogen ;  ; дуга, arc
+das Brötchen ;  ; булочка, the bun
+der Buchstabe ;  ; буква
+buchstabieren ;  ; spell
+daneben ;  ; in addition, besides, крім того
+draußen ;  ; снаружи, outdoor, там
+drücken ;  ; натискати
+eilig ;  ; поспіхом, in a hurry
+einladen ;  ; запросити, пригласить, invite
+die Einladung ;  ; запрошення, приглашение, invitation
+einsteigen ;  ; board, get in
+der Eintritt ;  ; вход, admission, entry
+der Empfänger ;  ; отримувач, receiver
+empfehlen ;  ; recommend
+regnen ;  ; дощ, rain
+die Fahrkarte ;  ; ticket
+ledig ;  ; single
+feiern ;  ; celebrate
+der Fehler ;  ; mistake
+das Fieber ;  ; гарячка, fever
+das Fleisch ;  ; meat
+fliegen ;  ; fly
+der Abflug ;  ; departure, take off
+der Flughafen ;  ; airport
+das Flugzeug ;  ; airplane
+die Führung ;  ; leadership
+das Gleis ;  ; платформа, track
+der Glückwunsch ;  ; congratulation
+gültig ;  ; valid, active, applicable
+günstig ;  ; cheap, favorable
+das Hähnchen ;  ; chicken
+die Hausaufgabe ;  ; homework
+die Heimat ;  ; homeland
+heiraten ;  ; merry
+der Herd ;  ; stove, плита
+herzlich ;  ; сердечно, тепло
+hinten ;  ; сзади
+kaputt ;  ; broken, busted, ruined
+kennerlernen ;  ; познайомитись, discover, learn about
+der Koffer ;  ; suitcase
+das Konto ;  ; account, рахунок
+der Kuchen ;  ; торт, пирог, cake
+kümmern ;  ; take care, look after
+der Kunde ;  ; client, customer
+leise ;  ; quiet, silent
+der Liebling ;  ; darling
+der Lkw ;  ; грузовик
+lustig ;  ; funny, amusing
+mieten ;  ; арендовать, hire, rent
+mitbringen ;  ; bring, принести, привезти
+mitkommen ;  ; come along, прийти
+mitmachen ;  ; participate
+mitnehmen ;  ; взяти, забрати
+der Mund ;  ; mouth
+die Nummer ;  ; номер
+das Öl ;  ; oil
+die Rechnung ;  ; bill, cheque
+das Schild ;  ; табличка, надпись
+schlecht ;  ; плохо, ужасно
+der Schluss ;  ; end, final, conclusion
+der Schlüssel ;  ; key
+schmecken ;  ; taste
+der Schuh ;  ; shoe
+die Sehenswürdigkeiten ;  ; sights, attractions
+die Speisekarte ;  ; menu
+der Stock ;  ; трость, палка
+die Tasche ;  ; bag, pocket
+der Termin ;  ; appointment, deadline, встреча
+die Treppe ;  ; ladder
+übernachten ;  ; переночувати
+überweisen ;  ; transfer, send, переказати
+umziehen ;  ; переїхати, переодягтись
+der Unterricht ;  ; lesson, class
+unterschreiben ;  ; підписати
+der Verein ;  ; association, club, union
+verkaufen ;  ; sell
+vermieten ;  ; здавати в оренду
+der Nachname ;  ; surname
+die Vorsicht ;  ; обережність
+weh tun ;  ; hurt
+weiblich ;  ; female
+wiederholen ;  ; repeat
+der Zoll ;  ; customs
+die Zufriedenheit ;  ; задоволення
+die Ahnung ;  ; idea, clue, догадка
+die Ampel ;  ; світлофор
+unsterblich ;  ; immortal
+die Hexe ;  ; witch
+das Geflüster ;  ; whisper
+bestimmt ;  ; destined
+das Schicksal ;  ; destiny
+die Waffe ;  ; weapon
+bewachen ;  ; охороняти
+erfordern ;  ; require
+scheinen ;  ; seem
+verteidigen ;  ; protect
+der Zaun ;  ; fence, забор
+verdächtigen ;  ; suspect
+der Geist ;  ; ghost
+retten ;  ; rescue
+jagen ;  ; hunt, chase
+der Hinweis ;  ; clue
+die Bescheinigung ;  ; certificate
+das Angebot ;  ; offer, пропозиція
+ankommen ;  ; прибыть, приехать
+die Anmeldung ;  ; registration
+der Anruf ;  ; call
+der Anschluss ;  ; connection, приєднання
+ansehen ;  ; посмотреть
+sich ärgern ;  ; злитися
+aufmachen ;  ; відкрити
+aufräumen ;  ; clean up, прибраться
+die Bewerbung ;  ; application
+aufregend ;  ; захоплюючий
+die Ausbildung ;  ; education, training
+ausgeben ;  ; тратить, расходовать
+ausgehen ;  ; assume, go out, date
+die Auskunft ;  ; information
+auspacken ;  ; розпакуватись
+sich ausruhen ;  ; rest, relax
+aussehen ;  ; выглядеть, смотреться
+abbiegen ;  ; свернуть, поворачивать
+einschalten ;  ; вмикати
+das Abenteuer ;  ; adventure
+der Abfall ;  ; мусор
+das Abgas ;  ; exhaust gas, вихлопні
+abheben ;  ; withdraw, take-off
+abschreiben ;  ; списати
+abmachen ;  ; снять, удалить, улаживать, agree, remove
+abnehmen ;  ; lose weight, remove
+die Zeitschrift ;  ; журнал
+das Lob ;  ; praise, accolade
+die Belohnung ;  ; reward, prize
+die Vorschau ;  ; preview
+der Wettkampf ;  ; contest
+die Mischung ;  ; mix, combination, сочетание
+die Rangfolge ;  ; ranking
+amtlich ;  ; official
+die Erde ;  ; земля
+bedeutend ;  ; significant, существенная, важлива
+ansteigen ;  ; rise, grow
+scheinbar ;  ; seemingly, видимо, казалось бы
+der Anstieg ;  ; зростання, rise, increase
+unwohl ;  ; unwell, некомфортно, не по собі
+sich verhalten ;  ; behave, поводитись
+der Brennstoff ;  ; паливо, топливо, fuel
+voranschreiten ;  ; двигаться вперед, progress, moving on
+laut ;  ; according to, судя по
+der Verlust ;  ; loss, потеря, утрата
+der Forscher ;  ; explorer
+ausreichen ;  ; enough, вистачати
+bedecken ;  ; cover
+der Wissenschaftler ;  ; scientist
+erforschen ;  ; explore
+die Küste ;  ; coast
+entfernen ;  ; remove, delete
+ruhenden ;  ; dormant
+nahrhaft ;  ; nutritious
+das Niveau ;  ; level
+aussterben ;  ; вимирати
+ausrotten ;  ; eradicate
+das Nagetier ;  ; rodent
+die Spitze ;  ; tip, top, кончик, шпиль
+anerkennen ;  ; визнавати, recognise, acknowledge
+die Kinderstube ;  ; nursery
+das Gewebe ;  ; tissue
+ausstoßen ;  ; eject, emit
+die Dürre ;  ; drought, посуха
+die Überschwemmung ;  ; flood
+die Übertreibung ;  ; перебільшення, exaggeration
+die Kindheit ;  ; дитинство, childhood
+entscheidend ;  ; crucial
+mitbestimmen ;  ; influence, co-determine
+der Beweis ;  ; evidence, proof
+das Bauwerk ;  ; building, строительство
+der Ruf ;  ; reputation
+tadellos ;  ; impeccable, perfectly
+der Bausatz ;  ; kit, construction set
+die Mär ;  ; казка, міф
+rauskommen ;  ; вийти
+das Spielzeug ;  ; toy
+der Riesenerfolg ;  ; huge success
+stapeln ;  ; stack, pile up
+einigermaßen ;  ; довольно, достаточно
+umkippen ;  ; перевернути
+der Meilenstein ;  ; milestone
+vermeintlich ;  ; предположительно
+die Oberseite ;  ; top side
+das Rohr ;  ; pipe
+die Werkstatt ;  ; workshop
+weltumspannend ;  ; global, worldwide
+messen ;  ; measure
+der Hersteller ;  ; manufacturer, producer
+verfolgen ;  ; преследовать, отследить
+hinschauen ;  ; смотреть
+steinreich ;  ; filthy rich
+naheliegend ;  ; obvious
+die Nachhaltigkeit ;  ; sustainability
+wegwerfen ;  ; throw away
+durchführen ;  ; carry out, perform, провести
+anschließend ;  ; затем
+neuwertig ;  ; як новий
+der Zeitraum ;  ; промежуток времени
+abgesehen ;  ; кроме, помимо, apart, aside
+eindeutig ;  ; явно, определенно, чотко, несомненно
+zersetzen ;  ; decompose, disintegrate, разлагаться
+ungefähr ;  ; около, примерно
+die Verschmutzung ;  ; pollution
+gefährlich ;  ; dangerous
+unachtsam ;  ; careless, необережно
+ewig ;  ; forever
+die Tüte ;  ; bag
+abschaffen ;  ; abolish, eliminate, remove
+herkömmlich ;  ; traditional
+biegbar ;  ; flexible
+weiterkommen ;  ; progress, move on
+gesamt ;  ; whole, total
+der Kunststoff ;  ; plastic
+vorsorglich ;  ; предусмотрительно
+langlebig ;  ; довговічний
+der Reiz ;  ; привабливість, стимул
+der Jahrzehnt ;  ; decade
+die Beschwerde ;  ; жалоба, discomfort
+die Abweichung ;  ; deviation
+verblassen ;  ; fade out, гаснуть, меркнуть
+der Aufkleber ;  ; наклейка
+die Ursache ;  ; reason, cause
+zufriedenstellend ;  ; задовільний
+ausführlich ;  ; детальний
+der Bericht ;  ; report
+sachlich ;  ; фактичний, objectively
+offenbar ;  ; apparently, судя по всему, по всей видимости, мабуть
+vorstellen ;  ; think, meet
+der Käufer ;  ; покупець
+der Anwalt ;  ; адвокат, the lawyer
+verwirren ;  ; плутати, сбивать с толку, confuse
+andernfalls ;  ; if not, otherwise, інакше
+nachamen ;  ; наслідувати, imitate, подражать
+kennzeichnen ;  ; mark, помечать
+wodurch ;  ; вследствие чего,  благодаря чему, чем
+mehrfach ;  ; неоднократно
+die Gestaltung ;  ; дизайн
+anlegen ;  ; create, apply
+die Reichweite ;  ; range, reach, scope, дальность
+die Auseinandersetzung ;  ; argument, confrontation
+verletzen ;  ; harm, hurt
+inzwischen ;  ; теперь, уже, meanwhile, by now
+beheben ;  ; rectify, исправить
+losgetreten ;  ; unleashed
+riesig ;  ; huge, big, vast
+die Zuschrift ;  ; response, letter, reply
+die Auflösung ;  ; liquidation,  termination,  closing,  resolution,  solution,  disintegration,  breakup
+aufmerksam ;  ; уважний
+die Bedienung ;  ; офіціантка
+die Bedienungsanleitung ;  ; інструкція
+komplizieren ;  ; complicate
+das Eigentum ;  ; property, ownership
+der Nachahmer ;  ; imitator
+unumgänglich ;  ; essential, unavoidable
+rechtfertigen ;  ; justify, оправдывать
+die Panne ;  ; mishap
+vergleichsweise ;  ; comparatively
+wegschmeißen ;  ; throw away
+erwähnenswert ;  ; worth mentioning
+alltäglichen leben ;  ; everyday life
+das Hemd ;  ; shirt
+mutmaßlich ;  ; allegedly, предположительно
+sachgerecht ;  ; appropriate
+der Zeuge ;  ; witness
+die Niederlage ;  ; defeat
+die Verlängerung ;  ; renewal, revalidation, prolongation
+enttäuschen ;  ; розчаровувати, підводити, засмучувати
+schießen ;  ; shoot, fire, kick
+der Kontrahent ;  ; opponent, rival
+die Steigerung ;  ; rise, grow, increase
+dauerhaft ;  ; permanently, durable
+das Tor ;  ; goal
+besiegen ;  ; defeat, перемогти
+verzweifelt ;  ; desperate
+der Abbruch ;  ; demolition, abortion
+die Fete ;  ; party
+der Gastgeber ;  ; host
+verabschieden ;  ; попрощатись
+abreißen ;  ; demolish
+der Erdrutsch ;  ; landslide
+die Rache ;  ; revenge
+fluchen ;  ; curse
+gelangweilte ;  ; bored
+aufeinandertreffen ;  ; clash, encounter, hit each other
+ausgeschieden ;  ; eliminated
+unterliegen ;  ; is subject to, be defeated
+ausbreiten ;  ; spread, поширюватись
+abwärts ;  ; downward, вниз
+der Umbau ;  ; реконструкція
+ergänzen ;  ; add
+ausgezeichnet ;  ; excellent
+der Bestimmungsort ;  ; destination
+das Erbe ;  ; heritage, legacy
+der Einschlag ;  ; impact, вплив
+die Müdigkeit ;  ; втома, усталость, fatigue
+die Gemeinschaft ;  ; спільнота, community
+die Umgebung ;  ; environment, surrounding, середовище, окружение
+die Erkrankung ;  ; disease, disorder
+der Überschuss ;  ; надлишок, избыток, the excess
+allmählich ;  ; gradual, поступово, постепенно
+die Gattung ;  ; рід, вид
+die Knappheit ;  ; дефицит, the scarcity
+die Sammlung ;  ; зібрання, the collection
+die Anregung ;  ; excitation, stimulation, пропозиція
+der Käfer ;  ; жук, beetle
+das Rad ;  ; колесо
+der Stern ;  ; star
+unzählig ;  ; countless
+die Spur ;  ; trace, trail
+erschöpfen ;  ; exhaust, deplete
+kleben ;  ; (при)клеювати, прилипати
+die Sünde ;  ; гріх, sin
+ersehnen ;  ; desire, long, crave, yearn
+der Anlauf ;  ; attempt, запуск
+umringen ;  ; оточувати, surround
+der Schiedsrichter ;  ; арбітр, рефери
+machtlos ;  ; powerless
+durchsetzen ;  ; enforce, prevail, assert, реализовать, исполнять, осуществить
+der Schwung ;  ; імпульс, momentum
+unauffällig ;  ; непомітний, inconspicuous
+glänzend ;  ; brilliantly
+hüten ;  ; хранить, беречь, watch over, guard
+der Verteidiger ;  ; defender
+umstritten ;  ; controversial, спорний
+das Werkzeug ;  ; tool
+empfinden ;  ; feel, відчувати
+der Pfiff ;  ; свисток, the whistle
+die Erleichterung ;  ; relief, облегчение
+der Auftritt ;  ; appearance, performance, entry
+vielfältig ;  ; diverse
+spalten ;  ; split
+vereinen ;  ; unite, об'єднювати
+der Standort ;  ; location
+die Verwaltung ;  ; admin
+das Lied ;  ; the song, пісня
+die Hungersnot ;  ; famine, голод
+der Behälter ;  ; container, vessel, tank, bin
+einstellen ;  ; set, configure, hire

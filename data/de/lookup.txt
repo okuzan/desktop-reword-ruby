@@ -1,0 +1,362 @@
+Auf keinen Fall ; 2021-08-20
+Aus irgendeinem unerfindlichen Grund ; 2021-08-28
+Bescheid wusste ; 2021-08-22
+Besorgnis ; * , 2021-09-18
+Das ist meine Sache ; * , 2021-09-12
+Du hast Schwein ; 2021-09-20
+Einverstanden? ; * , 2021-09-12
+Gesicht wahren ; 2021-08-21
+Gott habe ihn selig ; 2021-09-15
+Halt's Maul ; 2021-09-21
+Hosen ; * , 2021-09-18
+Ich brenne vor Neugier ; 2021-08-28
+Ich geb mein Bestes ; * , 2021-09-12
+Ich habe Angst vor ; 2021-08-21
+Ich melde mich ; 2021-09-15
+Ich muss zu ihm ; 2021-09-21
+Kurz darauf ; 2021-08-21
+Leb wohl ; 2021-08-21
+Nicht wahr ; 2021-08-28
+Pass auf ; 2021-09-21
+Waffen niederlegen ; 2021-08-20
+Was heißt das für ; 2021-08-22
+Wie lautet ; 2021-08-28
+Zugriff auf Daten ; 2021-09-04
+abheben ; * , 2021-09-07
+abknallen ; * , 2021-09-21
+abstimmen ; 2021-09-15
+abstürzen ; 2021-08-28
+abwenden ; 2021-08-28
+agieren ; 2021-08-22
+allen voran ; 2021-09-03
+alles beim Alten ; 2021-09-18
+allmählich ; * , 2021-09-18
+am Tag darauf ; 2021-08-21
+an der Macht zu bleiben ; 2021-08-22
+anfassen ; 2021-09-03
+angeblich ; 2021-09-03
+angrenzend ; 2021-09-18
+anmaßend ; 2021-09-21
+anzünden ; 2021-08-20
+auf dem Vormarsch ; 2021-08-21
+auf die Höhe ; 2021-08-22
+aufbereiten ; 2021-09-05
+aus ihren Reihen ; 2021-09-05
+ausräuchern ; * , 2021-09-07 , 2021-09-08
+ausschließlich ; 2021-09-18
+ausstatten ; 2021-09-17
+ausstrecken ; 2021-08-20
+außer acht lassen ; 2021-08-21
+außer sich ; 2021-09-15
+außerehelich ; 2021-09-18
+beanspruchen ; * , 2021-09-04
+bedauerlich ; 2021-08-28
+beherbergen ; 2021-09-18
+bereichern ; 2021-08-22
+beschaffen ; 2021-08-22
+beteiligen ; 2021-08-20
+betreffen ; 2021-08-23
+betreten ; 2021-08-21
+bevorzugen ; 2021-08-21
+bewältigen ; 2021-08-23
+bezüglich ; 2021-08-21
+bis zum schluß ; 2021-08-21
+bisherig ; 2021-09-05
+bloß ; 2021-09-21
+dank ; 2021-08-22
+darstellen ; 2021-09-18
+das Bargeld ; 2021-08-21
+das Erdbeben ; 2021-08-21
+das Fell ; 2021-08-28
+das Fortbewegungsmittel ; 2021-08-22
+das Gefecht ; 2021-09-05
+das Gerät ; 2021-08-21
+das Gewürz ; 2021-08-29
+das Grundstück ; 2021-08-19
+das Klavier ; 2021-09-06
+das Lebewesen ; 2021-08-28
+das Mädel ; 2021-08-20
+das Raumschiff ; 2021-08-28
+das Scheinwerferlicht ; 2021-09-18
+das Schienennetz ; 2021-09-17
+das Streckennetz ; 2021-09-17
+das Urteil ; * , 2021-09-17
+das Verderben ; 2021-08-28
+das Vermögen ; * , 2021-09-12
+das Versagen ; 2021-08-21
+das Vorurteil ; 2021-08-23
+das Weltall ; 2021-08-28
+das Zeugnis ; 2021-09-17
+den Boden entziehen ; 2021-08-23
+den Regenbogen ; 2021-09-18
+denn je ; 2021-08-21
+der Angestellte ; 2021-09-17
+der Anlass ; 2021-09-21
+der Anschlag ; 2021-08-20 , 2021-09-08
+der Auftraggeber ; 2021-09-17
+der Ausgleich ; 2021-09-17
+der Beamte ; 2021-09-05
+der Betrug ; 2021-08-20
+der Bezirk ; 2021-09-03
+der Brand ; 2021-08-20
+der Bund ; 2021-08-22
+der Dolch ; 2021-09-03
+der Draht ; 2021-09-20
+der Ehebruch ; 2021-09-18
+der Einblick ; 2021-08-23
+der Einlass ; 2021-08-21
+der Erlös ; 2021-09-21
+der Faden ; 2021-08-22
+der Fleck ; 2021-08-22
+der Flughafen ; * , 2021-08-21
+der Fortschritt ; 2021-09-05
+der Freispruch ; 2021-09-16
+der Geringverdiener ; 2021-08-22
+der Gründer ; 2021-08-28
+der Hahn ; 2021-08-20
+der Hase ; 2021-08-20
+der Heckenschütze ; 2021-09-03
+der Hinterhalt ; 2021-08-20
+der Hof ; * , 2021-09-19
+der Irrer ; 2021-09-24
+der Ladevorgang ; 2021-09-17
+der Missbrauch ; 2021-09-17
+der Misserfolg ; 2021-09-19
+der Müll ; 2021-08-23
+der Rechner ; 2021-09-21
+der Rentner ; 2021-09-17
+der Rote ; 2021-08-22
+der Rückgrat ; 2021-09-03
+der Rückzug ; 2021-09-05
+der Schmuggel ; 2021-09-21
+der Schniedel ; * , 2021-09-12
+der Schwerpunkt ; 2021-08-22
+der Sklave ; 2021-08-20
+der Sprit ; 2021-08-22
+der Späher ; 2021-09-21
+der Stamm ; 2021-09-03
+der Statthalter ; 2021-08-21
+der Teig ; 2021-09-18
+der Tipp ; 2021-08-21
+der Umzug ; 2021-08-14
+der Versuchung ; * , 2021-09-04
+der Vertreter ; 2021-08-21
+der Vormund ; 2021-09-17
+der Wohlstand ; * , 2021-09-11
+der Würfel ; 2021-09-03
+der Zuschlag ; 2021-09-17
+der Zweig ; * , 2021-08-15
+der Zwerg ; * , 2021-08-16
+derartig ; * , 2021-08-22
+derzeitig ; 2021-08-23
+die Abschreckung ; 2021-08-22
+die Anfangszeit ; 2021-08-22
+die Anschaffung ; 2021-08-22
+die Armut ; 2021-08-23
+die Aufnahme ; 2021-09-05
+die Aufständischen ; 2021-08-21
+die Ausbeutung ; 2021-09-17
+die Ausfuhr ; 2021-08-23
+die Ausrede ; 2021-08-30
+die Ausrichtung ; 2021-08-22
+die Befragung ; 2021-09-15
+die Befugnisse ; 2021-09-17
+die Besetzung ; 2021-09-05
+die Besorgnis ; 2021-08-26
+die Beute ; 2021-08-23
+die Bewertung ; 2021-09-04
+die Bewährung ; 2021-08-20
+die Dringlichkeit ; 2021-08-28
+die Einstufung ; 2021-09-18
+die Einwanderung ; 2021-08-23
+die Ernährung ; 2021-08-23
+die Erziehung ; 2021-09-08
+die Finsternis ; 2021-09-20
+die Folter ; * , 2021-08-21
+die Fälschung ; 2021-08-22
+die Gattin ; 2021-09-15
+die Geduld ; * , 2021-09-18
+die Genesung ; 2021-08-20
+die Glaubwürdigkeit ; 2021-09-18
+die Gleichberechtigung ; 2021-08-23
+die Gliedmaße ; 2021-08-28
+die Hochburg ; 2021-09-05
+die Hosen voll ; * , 2021-09-04
+die Kugel ; * , 2021-09-21
+die Lastenverteilung ; 2021-08-22
+die Leistung ; 2021-09-23
+die Nachhaltigkeit ; * , 2021-08-22
+die Nachlässigkeit ; 2021-08-28
+die Neuigkeiten ; 2021-08-28
+die Razzia ; 2021-08-22
+die Rippe ; * , 2021-09-15
+die Rüstung ; 2021-08-20
+die Schlaflosigkeit ; 2021-09-08
+die Schublade ; 2021-09-05
+die Schulung ; 2021-09-17
+die Strömung ; 2021-08-22
+die Stärken ; 2021-08-22
+die Säule ; * , 2021-09-12
+die Teilhabe ; 2021-08-22
+die Umfrage ; 2021-09-18
+die Vergeltung ; 2021-08-20
+die Verleihung ; 2021-08-28
+die Verletzung ; * , 2021-09-21
+die Vermarktung ; 2021-09-18
+die Vernehmung ; 2021-09-15
+die Versetzung ; 2021-08-20
+die Verzeihung ; 2021-09-15
+die Voraussetzung ; 2021-08-23
+die Vorherrschaft ; 2021-08-28
+die Vorhersage ; 2021-08-21
+die Wache ; 2021-09-21
+die Weintraube ; * , 2021-09-12
+die Wurzel ; 2021-08-22
+die Übersicht ; 2021-08-23
+dienstlich ; 2021-09-15
+ebenfalls ; 2021-08-22
+eine Familie ernähren ; 2021-09-17
+einen Nerv treffen ; 2021-08-22
+einmarschieren ; 2021-09-18
+einrichten ; 2021-09-21
+einräumen ; 2021-08-23
+einsammeln ; 2021-08-20
+einschränken ; 2021-09-17
+ekelhaft ; 2021-08-20
+entschlossen ; 2021-09-21
+erbarmungslos ; 2021-08-28
+ernsthaft ; 2021-09-18
+ersichtlich ; 2021-08-21
+es herrschte ; 2021-09-17
+for what it's worth ; * , 2021-09-18
+fortan ; 2021-08-28
+fortgesetzt ; 2021-09-05
+furchtbar ; * , 2021-09-15
+fängt gleich an ; * , 2021-09-04
+fördern ; 2021-08-23
+gefälligst ; 2021-09-15
+gegenseitig ; 2021-08-21
+gehorchen ; * , 2021-09-17
+gelingen ; * , 2021-09-12
+gestrigen Tag ; 2021-08-21
+graben ein Loch ; 2021-09-18
+grausam ; 2021-08-20
+gutaussehend ; 2021-08-20
+hals über kopf ; 2021-08-21
+herrlich ; * , 2021-08-30
+hervorheben ; 2021-09-05
+hinrichten ; * , 2021-09-18
+hinschauen ; * , 2021-09-18
+hinzufügen ; 2021-09-18
+hosen ; * , 2021-09-18
+husten ; 2021-08-20
+im Austausch gegen ; 2021-09-03
+im Besitz ; 2021-09-04
+im Einklang mit ; 2021-08-28
+im Einsatz ; 2021-08-31
+im Ernst ; 2021-08-28
+im Schatten ; 2021-08-22
+im Umlauf ; 2021-08-23
+im Übrigen ; 2021-08-21
+in Bereiche unterteilt ; 2021-08-22
+in der Nähe ; 2021-09-03
+in hohem Maße ; 2021-09-05
+in vielen fällen ; 2021-08-21
+in Übereinstimmung mit ; 2021-08-26
+insgeheim ; 2021-09-05
+ist noch am Leben ; 2021-08-20
+kamen ums Leben ; 2021-08-22
+keuchen ; 2021-09-21
+knurren ; 2021-08-20
+kotzen ; 2021-08-21
+krass ; 2021-09-14
+lange vor ; 2021-08-22
+lasst uns gehen ; 2021-08-28
+lebensmüde ; 2021-08-20
+lecker ; 2021-08-20
+lob ; * , 2021-09-18
+man ; * , 2021-09-18
+mind-boggling ; 2021-09-19
+misshandeln ; 2021-09-18
+mit Leib und Seele ; 2021-09-15
+mitsamt ; 2021-08-21
+mittendrin ; 2021-08-28
+mündlich ; 2021-08-21
+nachgesagt ; 2021-09-18
+nicht Ihre Stärke ; 2021-09-15
+prügeln ; 2021-08-20
+rechtzeitig ; 2021-09-15
+riskant ; 2021-09-21
+sammeln ; 2021-09-03
+savor ; 2021-09-27
+scherzen ; * , 2021-09-12
+schief laufen ; 2021-08-21
+schmeißen ; 2021-09-15
+schrittweise ; 2021-09-05
+schwuler ; 2021-09-18
+seit Langem ; 2021-08-21
+selbsternannt ; 2021-09-18
+selbsternannt0 ; * , 2021-09-18
+sich anschließen ; 2021-08-22
+sich umbringen ; 2021-09-15
+sinnvoll ; 2021-08-21
+staggering ; 2021-09-19
+stets ; 2021-08-21
+streiten ; * , 2021-08-28
+stürzen ; 2021-09-15
+sunroom ; 2021-09-19
+tapfer ; * , 2021-09-17
+teilnehmen ; 2021-09-15
+täuschen ; 2021-08-20
+um ein Haar ; 2021-08-21
+umarmen ; 2021-08-28
+uneinnehmbar ; 2021-09-03
+ungehinderten Zugang ; 2021-09-05
+unpassend ; 2021-08-21
+unrechtmäßig ; 2021-09-18
+unscharf ; 2021-09-19
+unter anderem aufgrund ; 2021-08-22
+unternehmen ; 2021-09-18
+unverwundbar ; 2021-09-15
+unvoreingenommen ; 2021-08-23
+unzufrieden ; * , 2021-08-21
+verdrängen ; 2021-08-21
+verfügbar ; 2021-09-18
+vergehen ; 2021-09-03
+vergewaltigen ; 2021-09-18
+verhängen ; 2021-09-17
+verkünden ; 2021-09-05
+verlockend ; 2021-08-28
+vernichtend ; 2021-09-17
+verschonen ; 2021-08-20 , 2021-09-21
+verursachen ; 2021-08-22
+verurteilen ; 2021-08-20 , 2021-09-18 , 2021-09-21
+verzögern ; 2021-09-05
+von außen ; 2021-08-22
+von etw Gebrauch machen ; 2021-08-22
+vor allem ; 2021-09-17
+vor wenigen Jahren ; 2021-08-21
+vorbei ; * , 2021-09-18
+vorbereiten ; * , 2021-08-22
+vorm ; 2021-08-28
+vorübergehend ; 2021-09-05
+willkürlich ; 2021-09-17
+willst du mich verarschen ; 2021-09-21
+wir lagen falsch ; 2021-08-28
+witzig ; 2021-08-21
+währenddessen ; 2021-08-21
+wörtlich ; 2021-09-17
+zerfallen ; * , 2021-09-21
+zerschlagen ; 2021-08-22
+zudem ; 2021-09-05
+zugrunde gehen ; 2021-08-28
+zujubeln ; 2021-09-15
+zurückführen ; 2021-09-05
+zögern ; 2021-08-21
+äußern ; * , 2021-09-17
+überdenken ; 2021-08-22
+überflüssig ; 2021-08-22 , 2021-09-08
+überfällig ; 2021-09-17
+überschreiten ; 2021-08-21
+übertrieben ; 2021-09-21
+überweisen ; * , 2021-09-18

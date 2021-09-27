@@ -1,0 +1,28 @@
+USER GUIDE
+
+s - switches between EN & DE. Type "s pl" to access PL.
+e - prepares append files to be loaded to reword, adds today's date to exports.log -> from now on, append will be generate since this day
+r - opens folder in your system, when this project is located
+g - generate append - enter date in format like this "2021-09-13" to print to append files entries that were added from that day on.
+v - vague search will return even partial matches, you can then search them via ordinary search
+    If you don't provide the date, the last entry of exports log will be taken instead.
+o - open files.
+    t - timeline: time-sorted list of your queries
+    w - words of current language DB
+    p - phrases of current language DB
+    e - exports log (dates when you're loading data to your Reword app)
+    aw - append words - words that you've not yet uploaded to your app (added since last date in exports log)
+    ap - append phrases ...
+a - main interface, checking words, adding them if they're not in DBs. Enter "a p" to access phrases, their DBs are different!
+    [.query] - don't log this query if it's in DBs already
+    [query-] - don't offer me translations
+      If word is found:
+        [w] - change word !DANGEROUS
+        [s] - change sound
+        [t] - change translation
+        [d] - delete from database (but it's entry won't be deleted from the lookup table)
+        [c] - change base: words <-> phrases
+        To build translations, enter string like this "314" to concat 3rd, 1st, and 4th available variants (it's example).
+  Remember, changes are only saved when you got out of the loop of adding/checking words (entered nothing) and message "CHANGES SAVED" is printed.
+  Please exit your app correctly, entering non-command symbols on main menu (or hit ENTER).
+                                      <=============================>
